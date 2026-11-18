@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lucent",
+      "hasCanvas": false,
+      "bodyTextLen": 497,
+      "bodyTextHash": "03aca24eba1a4b275c865e30d0e412264da8852a90bbc91828191ec0d6112d1c",
+      "bodyTextPrefix": "Lucent OPEN MODELS Новый чат Чатов пока нет Нет подключения Доба",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lucent",
+      "hasCanvas": false,
+      "bodyTextLen": 497,
+      "bodyTextHash": "03aca24eba1a4b275c865e30d0e412264da8852a90bbc91828191ec0d6112d1c",
+      "bodyTextPrefix": "Lucent OPEN MODELS Новый чат Чатов пока нет Нет подключения Доба",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
